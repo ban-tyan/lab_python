@@ -18,8 +18,12 @@
 
 
 ### Материалы
-https://realpython.com/python-map-function/
-https://skillbox.ru/media/code/generatory_python_chto_eto_takoe_i_zachem_oni_nuzhny/
-https://wiki.python.org/moin/Generators
-https://www.programiz.com/python-programming/generator
-https://habr.com/ru/articles/560300/
+[map()](https://realpython.com/python-map-function/)
+
+[генераторы1](https://skillbox.ru/media/code/generatory_python_chto_eto_takoe_i_zachem_oni_nuzhny/)
+
+[генераторы2](https://wiki.python.org/moin/Generators)
+
+[генераторы3 с примерами](https://www.programiz.com/python-programming/generator)
+
+[генераторы4](https://habr.com/ru/articles/560300/)
