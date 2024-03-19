@@ -2,7 +2,7 @@ def validate(*valids):
     def decorator(func):
         def wrapper(*args, **kwargs):
             for validate, arg in zip(valids, args):
-                if not predicate(arg):
+                if not validate(arg):
                     raise ValueError(f"Validation failed: {arg}")
             return func(*args, **kwargs)
         return wrapper
