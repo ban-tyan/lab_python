@@ -1,9 +1,9 @@
-def validate(*predicates):
+def validate(*valids):
     def decorator(func):
         def wrapper(*args, **kwargs):
-            for predicate, arg in zip(predicates, args):
+            for validate, arg in zip(valids, args):
                 if not predicate(arg):
-                    raise ValueError(f"Validation failed for argument: {arg}")
+                    raise ValueError(f"Validation failed: {arg}")
             return func(*args, **kwargs)
         return wrapper
     return decorator
