@@ -12,14 +12,14 @@ def collect_args():
     return wrapper
 
 
-zxc=collect_args()
-zxc(130)
-zxc(20)
-zxc(130)
-zxc(20)
-zxc(130)
-zxc(20)
-print(zxc(10))
-print(zxc(10))
+collect=collect_args()
+collect(130)
+collect(20)
+collect(130)
+collect(20)
+collect(130)
+collect(20)
+print(collect(10))
+print(collect(10))
 
 
