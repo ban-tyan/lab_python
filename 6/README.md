@@ -20,8 +20,8 @@ ____________
 ![image](https://github.com/ban-tyan/lab_python/assets/145260845/31c588d4-ca2f-44ad-a775-41d9dbfdebbc)
 
 ## Использованные материалы 
-1. https://www.youtube.com/playlist?list=PLQAt0m1f9OHsd6U5okp1XLoYyQR0oBjMM
-2. https://docs.python.org/3/library/tkinter.html
-3. https://www.youtube.com/watch?v=qsAfMWWmAF8
-4. https://ru.hexlet.io/courses/python-setup-environment/lessons/venv/theory_unit
-5. https://thecode.media/py-gui/
+1. [Курс по tinkter](https://www.youtube.com/playlist?list=PLQAt0m1f9OHsd6U5okp1XLoYyQR0oBjMM)
+2. [инфа про tinkter](https://docs.python.org/3/library/tkinter.html)
+3. [как создать пользователтский интерфейс](https://www.youtube.com/watch?v=qsAfMWWmAF8)
+4. [виртуальное окружение](https://ru.hexlet.io/courses/python-setup-environment/lessons/venv/theory_unit)
+5. [графический интерфейс в целом](https://thecode.media/py-gui/)
